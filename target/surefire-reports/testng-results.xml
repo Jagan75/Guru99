@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-05T12:23:27 IST" name="Guru99" finished-at="2021-05-05T12:24:52 IST" duration-ms="84529">
+    <groups>
+    </groups>
+    <test started-at="2021-05-05T12:23:27 IST" name="Test" finished-at="2021-05-05T12:24:52 IST" duration-ms="84529">
+      <class name="com.Guru99.TestCases.CurrentAccount_TC">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.Guru99.TestCases.CurrentAccount_TC@37654521]" started-at="2021-05-05T12:24:01 IST" name="setUp" finished-at="2021-05-05T12:24:05 IST" duration-ms="4087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Guru99.TestCases.CurrentAccount_TC.CurrentAccount() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CurrentAccount()[pri:0, instance:com.Guru99.TestCases.CurrentAccount_TC@37654521]" started-at="2021-05-05T12:24:05 IST" name="CurrentAccount" finished-at="2021-05-05T12:24:25 IST" duration-ms="20002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CurrentAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Guru99.TestCases.CurrentAccount_TC@37654521]" started-at="2021-05-05T12:24:25 IST" name="tearDown" finished-at="2021-05-05T12:24:27 IST" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Guru99.TestCases.CurrentAccount_TC -->
+      <class name="com.Guru99.TestCases.AddCustomer_TC">
+        <test-method is-config="true" signature="setReports(org.testng.ITestContext)[pri:0, instance:com.Guru99.TestCases.AddCustomer_TC@d29f28]" started-at="2021-05-05T12:23:27 IST" name="setReports" finished-at="2021-05-05T12:23:27 IST" duration-ms="473" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f3ca64a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReports -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.Guru99.TestCases.AddCustomer_TC@d29f28]" started-at="2021-05-05T12:23:27 IST" name="setUp" finished-at="2021-05-05T12:23:35 IST" duration-ms="7695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Guru99.TestCases.AddCustomer_TC.AddCustomer() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddCustomer()[pri:0, instance:com.Guru99.TestCases.AddCustomer_TC@d29f28]" started-at="2021-05-05T12:23:35 IST" name="AddCustomer" finished-at="2021-05-05T12:24:00 IST" duration-ms="25031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Guru99.TestCases.AddCustomer_TC@d29f28]" started-at="2021-05-05T12:24:00 IST" name="tearDown" finished-at="2021-05-05T12:24:01 IST" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.Guru99.TestCases.AddCustomer_TC@d29f28]" started-at="2021-05-05T12:24:51 IST" name="endReport" finished-at="2021-05-05T12:24:52 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.Guru99.TestCases.AddCustomer_TC -->
+      <class name="com.Guru99.TestCases.SavingsAccount_TC">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.Guru99.TestCases.SavingsAccount_TC@15aab8c6]" started-at="2021-05-05T12:24:27 IST" name="setUp" finished-at="2021-05-05T12:24:30 IST" duration-ms="3914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Guru99.TestCases.SavingsAccount_TC.savingsAccount() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="savingsAccount()[pri:0, instance:com.Guru99.TestCases.SavingsAccount_TC@15aab8c6]" started-at="2021-05-05T12:24:30 IST" name="savingsAccount" finished-at="2021-05-05T12:24:49 IST" duration-ms="18980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingsAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Guru99.TestCases.SavingsAccount_TC@15aab8c6]" started-at="2021-05-05T12:24:49 IST" name="tearDown" finished-at="2021-05-05T12:24:51 IST" duration-ms="1175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Guru99.TestCases.SavingsAccount_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Guru99 -->
+</testng-results>
